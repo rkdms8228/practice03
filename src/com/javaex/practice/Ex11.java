@@ -14,6 +14,7 @@ public class Ex11 {
 		int sum = 0;
 		
 		for(int i = 1; i<=num; i++) {
+			
 			if(num%2==0) {
 				int en;
 			}else {
