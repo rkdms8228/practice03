@@ -16,6 +16,7 @@ public class Ex17 {
 			for(int x = 1; x<=num-y; x++) {
 				System.out.print("*");
 			}
+			
 			System.out.println();
 			
 		}
