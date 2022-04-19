@@ -20,10 +20,12 @@ public class Ex10 {
 					if(num>max) {
 						max = num;
 					}
-					
 			}
 			
 			System.out.println("최대값은 "+max+"입니다.");
+			
+			//*1개의 입력값을 받을 때마다 최대값을 계산해야 함 
+			//*다음 입력값이 전의 최대값보다 크면 변경, 작으면 기존 최대값 유지
 			
 			sc.close();		
 				
