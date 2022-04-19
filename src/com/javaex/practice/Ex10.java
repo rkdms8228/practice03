@@ -10,7 +10,7 @@ public class Ex10 {
 			
 			Scanner sc = new Scanner(System.in);
 			int max = 0;
-			int num = 0;
+			int num;
 		
 			for(int i = 1; i<=5; i++) {
 				
